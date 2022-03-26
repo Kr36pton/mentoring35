@@ -1,15 +1,14 @@
 import React, { Component } from 'react'
-import From from '../components/From'
-import Result from '../components/Result'
+import From from '../components/Button'
+import 'bootstrap/dist/css/bootstrap.css';
+import Header from '../components/Header';
 
 class App extends Component {// component stateful
   render() {
     return (
       <div>
-        <h3>Lista Random</h3>
-        <p>Sistema Ramdom - Demo</p>
+        <Header />
         <From />
-        <Result />
       </div>
     )
   }
