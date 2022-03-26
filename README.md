@@ -19,10 +19,8 @@ Crear una ventana en ReactJS que me permite renderizar una lista aleatoria que s
 ### EJECUCION DEL APLICATIVO
 Momento en que cae Sello
 
-https://raw.githubusercontent.com/usuarioKr36pton/mentoring35/master/front\public\Captura_funcionamiento_1.png
+![Captura_funcionamiento_1](https://user-images.githubusercontent.com/69650871/160221644-c47447da-b41f-4b49-86d7-a37e5668a704.png)
 
 Momento en que cae Cara
-https://raw.githubusercontent.com/usuarioKr36pton/mentoring35/master/front\public\Captura_funcionamiento_2.png
 
-
-
+![Captura_funcionamiento_2](https://user-images.githubusercontent.com/69650871/160221654-ee68fa90-b11a-4821-993e-fc33d7d7ffd8.png)
