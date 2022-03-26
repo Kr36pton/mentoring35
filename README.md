@@ -16,7 +16,13 @@ Para de Spring Boot (/back)
 
 Crear una ventana en ReactJS que me permite renderizar una lista aleatoria que se le pase por una caja de texto dentro de un formulario, ingresar una lista separadas por coma y hacer submit de esa lista. El dato random se debe consultar a través de una API REST reactiva que esta diseñada con Spring Boot + Webflux. 
 
+### EJECUCION DEL APLICATIVO
+Momento en que cae Sello
 
+https://github.com/Kr36pton/mentoring35/blob/master/front/public/Captura%20funcionamiento%201.png
+
+Momento en que cae Cara
+https://github.com/Kr36pton/mentoring35/blob/master/front/public/Captura%20funcionamiento%202.png
 
 
 
